@@ -4,3 +4,6 @@ h1 {
 .recommend {
   font-weight: bold;
 }
+.sold-out {
+  text-decoration: line-through;
+}
